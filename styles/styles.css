@@ -1,0 +1,16 @@
+.profile-pic {
+	width: 100%;
+}
+body {
+	background-color:lightblue;
+}
+.header-pic {
+	width:100%;
+	float:left;
+}
+body {
+	background-image: url("../imgs/watercolourbackground.jpg");
+}
+h4{
+	font-family:american typerwriter;
+}
